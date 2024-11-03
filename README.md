@@ -59,13 +59,13 @@ hex-chess-mvp/
 ```
 
 ---
-💡 Roadmap
-Phase	Features
-✅ MVP	Basic game board, piece movement, interactive UI with game rules.
-⏳ Full Game	Multiplayer mode, AI opponent, animations, sound effects, enhanced UI.
-📆 Future Updates	Additional pieces, hex board customizations, advanced moves, and power-ups.
-🤝 Contributing
-Contributions are always welcome! Here’s how you can help:
+## 💡 Roadmap
+
+| Phase              | Features                                                                                                           |
+|--------------------|--------------------------------------------------------------------------------------------------------------------|
+| ✅ **MVP**         | Basic game board, piece movement, interactive UI with game rules.                                                 |
+| ⏳ **Full Game**   | Multiplayer mode, AI opponent, animations, sound effects, enhanced UI.                                            |
+| 📆 **Future Updates** | Additional pieces, hex board customizations, advanced moves, and power-ups.                               |
 
 Fork the repository
 Create a new branch (feature/YourFeature)
