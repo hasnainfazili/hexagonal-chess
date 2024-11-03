@@ -49,7 +49,6 @@ For detailed rules, refer to the **Rules Panel** in the game by clicking the "Ru
 ---
 
 ## 🧩 Project Structure
-
 ```plaintext
 hex-chess-mvp/
 ├── Assets/
@@ -57,8 +56,9 @@ hex-chess-mvp/
 │   ├── Prefabs/                # Prefabs for hex tiles and game pieces
 │   └── Scenes/                 # Main game scene for hex chess
 └── README.md                   # Project README file
+```
 
-
+---
 💡 Roadmap
 Phase	Features
 ✅ MVP	Basic game board, piece movement, interactive UI with game rules.
